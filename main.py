@@ -246,3 +246,6 @@ if __name__ == "__main__":
     main_window = MainWindow()
     main_window.show()
     app.exec_()
+
+# 我改一下这里
+# 我再改一下这里 然后按crtl+S
